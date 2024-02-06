@@ -1,0 +1,17 @@
+OPEN_CV
+https://www.pyimagesearch.com/2016/06/20/detecting-cats-in-images-with-opencv/
+
+PIR
+https://www.hackster.io/hardikrathod/pir-motion-sensor-with-raspberry-pi-415c04
+
+SERVO
+https://rpi.science.uoit.ca/lab/servo/
+
+CAMERA
+https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/
+
+time
+http://www.howtoautomate.in.th/python-date-time-example/
+
+line 
+https://github.com/mrolarik/simple-iot/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1-Line-Notify-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2-Python
